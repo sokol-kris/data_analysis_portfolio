@@ -19,6 +19,7 @@ In this section I describe the projects with a brief description of the tasks, t
 ### Analysis of user behavior in a mobile application
 
 *display of interactive images has been replaced by png format*
+
 **Code**: [user_behavior_mobile_application.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/037264cdc2009357fdc5dfb9eeb77e9077693d04/user_behavior_mobile_application.ipynb)  
 **Description**: The dataset contains data on events that took place in the mobile application "Unnecessary things". In it, users sell their unnecessary things by posting them on the bulletin board. It is necessary to conduct an analysis of user behavior based on identifying the main scenarios for using the application for the purpose of further segmentation of users. The customer's further work will consist of testing hypotheses to increase user engagement, improve the functionality of the application and increase conversion to the target action - "contacts show".  
 **Skills:** data cleaning, data analysis, retention rate, conversion rate, sankey diagram, proportions z-test, data visualization.  
@@ -28,6 +29,7 @@ In this section I describe the projects with a brief description of the tasks, t
 ### Research of the Moscow catering market
 
 *displaying interactive images is not available, you can use **nbviewer -> execute on binder***
+
 **Code**: [research_of_Moscow_catering_establishments.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_of_Moscow_catering_establishments.ipynb)  
 **Description**: The study presents work with a dataset of Moscow catering establishments, compiled on the basis of data from Yandex Maps and Yandex Business services for the summer of 2022. In this work, I studied the Moscow market, interesting features and presented the results obtained, which in the future will help investors choose a suitable place to open a catering establishment.  
 **Skills:** data cleaning, data analysis, data visualization in geoanalytics, presentation.  
