@@ -11,6 +11,7 @@ This is a repository I created to showcase my skills and track my progress in da
 - [Portfolio Projects](#portfolio-projects)
     - [Analysis of user behavior in a mobile application](#analysis-of-user-behavior-in-a-mobile-application)
     - [Research of the Moscow catering market](#research-of-the-moscow-catering-market)
+    - [Research for a food retail startup](#research-for-a-food-retail-startup)
 
 
 ## Portfolio Projects
@@ -35,3 +36,12 @@ In this section I describe the projects with a brief description of the tasks, t
 **Skills:** data cleaning, data analysis, data visualization in geoanalytics, presentation.  
 **Technology:** Python, Pandas, Folium, Plotly.  
 **Results:** anomaly processing, geoanalytics, presentation preparation, data-driven business recommendations.
+
+### Research for a food retail startup
+
+**Code**: [research_for_a_food_retail_startup](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_for_a_food_retail_startup.ipynb)
+**Description**: In this work, I study the sales funnel, find out how users reach the purchase. And also examine the results of the A/A/B experiment:
+The designers wanted to change the fonts in the entire application, and the managers were afraid that users would be uncomfortable. They agreed to make a decision based on the results of the A/A/B test. The users were divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones.  
+**Skills:** data analysis, event analytics, event funnel, A/B testing, proportions z-test.  
+**Technology:** Python, Pandas, Scipy Stats, Matplotlib, Plotly.
+**Results:** log event frequency analysis, funnel plotting, statistical test of equality of shares of each group in terms of each funnel event, A/B test results analysis.
