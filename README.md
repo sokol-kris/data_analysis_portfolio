@@ -29,10 +29,10 @@ In this section I describe the projects with a brief description of the tasks, t
 ### Research of the Moscow catering market
 
 *displaying interactive images is not available, you can use **nbviewer -> execute on binder***  
-**Code**: [research_of_Moscow_catering_establishments.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_of_Moscow_catering_establishments.ipynb)
+**Code**: [research_of_Moscow_catering_establishments.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_of_Moscow_catering_establishments.ipynb)  
 **Description**: The study presents work with a dataset of Moscow catering establishments, compiled on the basis of data from Yandex Maps and Yandex Business services for the summer of 2022. In this work, I studied the Moscow market, interesting features and presented the results obtained, which in the future will help investors choose a suitable place to open a catering establishment.  
 **Skills:** data cleaning, data analysis, data visualization in geoanalytics, presentation.  
-**Technology:** Python, Pandas, Folium, Plotly.
+**Technology:** Python, Pandas, Folium, Plotly.  
 **Results:** anomaly processing, geoanalytics, presentation preparation, data-driven business recommendations.
 
 ### Research for a food retail startup
