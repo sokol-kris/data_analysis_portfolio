@@ -12,6 +12,7 @@ This is a repository I created to showcase my skills and track my progress in da
     - [Analysis of user behavior in a mobile application](#analysis-of-user-behavior-in-a-mobile-application)
     - [Research of the Moscow catering market](#research-of-the-moscow-catering-market)
     - [Research for a food retail startup](#research-for-a-food-retail-startup)
+    - [Entertainmen application analysis](#entertainmen-application-analysis)
 
 
 ## Portfolio Projects
@@ -42,4 +43,12 @@ In this section I describe the projects with a brief description of the tasks, t
 The designers wanted to change the fonts in the entire application, and the managers were afraid that users would be uncomfortable. They agreed to make a decision based on the results of the A/A/B test. The users were divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones.  
 **Skills:** data analysis, event analytics, event funnel, A/B testing, proportions z-test.  
 **Technology:** Python, Pandas, Scipy Stats, Matplotlib, Plotly.  
-**Results:** log event frequency analysis, funnel plotting, statistical test of equality of shares of each group in terms of each funnel event, A/B test results analysis.
+**Results:** log event frequency analysis, funnel plotting, statistical test of equality of shares of each group in terms of each funnel event, A/B test results analysis.  
+
+### Entertainmen application analysis
+
+**Code**: [entertainmen application analysis](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/entertainmen_application_analysis.ipynb)  
+**Description**: In this project, I analyze why despite huge investments in advertising, the company has been suffering losses for the last few months, I analyze when the costs of attracting a client pay off and what factors hinder attracting clients.
+**Skills:** data analysis, calculation and visualization of business metrics (LTV, CAC, ROI, retention rate, conversion rate).  
+**Technology:** Python, Pandas, Matplotlib.  
+**Results:** user profiles, marketing spend distribution analysis, reasons for user acquisition inefficiency, recommendations for the marketing department.
