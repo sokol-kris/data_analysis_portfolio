@@ -13,6 +13,7 @@ This is a repository I created to showcase my skills and track my progress in da
     - [Research of the Moscow catering market](#research-of-the-moscow-catering-market)
     - [Research for a food retail startup](#research-for-a-food-retail-startup)
     - [Entertainmen application analysis](#entertainmen-application-analysis)
+    - [Online Store Analysis](#online-store-analysis)
 
 
 ## Portfolio Projects
@@ -52,3 +53,10 @@ The designers wanted to change the fonts in the entire application, and the mana
 **Skills:** data analysis, calculation and visualization of business metrics (LTV, CAC, ROI, retention rate, conversion rate).  
 **Technology:** Python, Pandas, Matplotlib.  
 **Results:** user profiles, marketing spend distribution analysis, reasons for user acquisition inefficiency, recommendations for the marketing department.
+
+### Online Store Analysis
+**Code**: [online_store_analysis.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/online_store_analysis.ipynb)  
+**Description**: In this project, I prioritized a prepared list of online store hypotheses to increase revenue, and also analyzed the results of the A/B test.  
+**Skills:** data analysis, prioritization of hypotheses ICE/RICE, visualization of cumulative graphs, A/B testing, Mann-Whitney U test.  
+**Technology:** Python, Pandas, Scipy Stats, Matplotlib.  
+**Results:** anomaly processing, prioritization of hypotheses, testing hypotheses based on A/B test results.
