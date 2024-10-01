@@ -38,7 +38,7 @@ In this section I describe the projects with a brief description of the tasks, t
 
 ### Research for a food retail startup
 
-**Code**: [research_for_a_food_retail_startup](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_for_a_food_retail_startup.ipynb)  
+**Code**: [research_for_a_food_retail_startup.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/research_for_a_food_retail_startup.ipynb)  
 **Description**: In this work, I study the sales funnel, find out how users reach the purchase. And also examine the results of the A/A/B experiment:
 The designers wanted to change the fonts in the entire application, and the managers were afraid that users would be uncomfortable. They agreed to make a decision based on the results of the A/A/B test. The users were divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones.  
 **Skills:** data analysis, event analytics, event funnel, A/B testing, proportions z-test.  
@@ -47,8 +47,8 @@ The designers wanted to change the fonts in the entire application, and the mana
 
 ### Entertainmen application analysis
 
-**Code**: [entertainmen application analysis](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/entertainmen_application_analysis.ipynb)  
-**Description**: In this project, I analyze why despite huge investments in advertising, the company has been suffering losses for the last few months, I analyze when the costs of attracting a client pay off and what factors hinder attracting clients.
+**Code**: [entertainmen application analysis.ipynb](https://github.com/sokol-kris/data_analysis_portfolio/blob/main/entertainmen_application_analysis.ipynb)  
+**Description**: In this project, I analyze why despite huge investments in advertising, the company has been suffering losses for the last few months, I analyze when the costs of attracting a client pay off and what factors hinder attracting clients.  
 **Skills:** data analysis, calculation and visualization of business metrics (LTV, CAC, ROI, retention rate, conversion rate).  
 **Technology:** Python, Pandas, Matplotlib.  
 **Results:** user profiles, marketing spend distribution analysis, reasons for user acquisition inefficiency, recommendations for the marketing department.
